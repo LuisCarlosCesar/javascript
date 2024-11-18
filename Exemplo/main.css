@@ -24,9 +24,10 @@ input{
     border-radius: 5px;
     border-color: #00ff7f;
     padding: 8px;
+    text-align: center;
 }
 
-.add-task-button{
+.adic > button{
    font-size: 16px;
    padding: 16px;
    background-color: #228b22;
@@ -34,4 +35,5 @@ input{
    border-radius: 4px;
    font-weight: bold;
    color: white;
-}
+   margin-left: 10px;
+   }
