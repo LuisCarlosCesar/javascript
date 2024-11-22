@@ -4,5 +4,5 @@ if (pais == 'Brasil'){
     console.log('voce é Brasileiro')
 }
 else{
-    console.log('Voce é Estrangeiro')
+    console.log('Voce é Estrangeiro');
 }
